@@ -1,0 +1,25 @@
+body {
+    background-color: #00a9bf;
+background-image: url("https://www.transparenttextures.com/patterns/diamond-upholstery.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+
+
+h1{
+        font-size: 36pt;
+        margin-top: 90px;
+        color:black;
+}
+
+#home {
+    width: 100%;
+    position: relative;
+    left: -8px;
+    height: 300px;
+    background: url(https://images.unsplash.com/photo-1486728297118-82a07bc48a28?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60)
+      center 75% fixed no-repeat;
+    background-position: top center;
+      background-size: cover;
+    padding: 20px;
+  }
